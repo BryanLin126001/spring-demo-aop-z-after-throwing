@@ -1,0 +1,5 @@
+ntt\global\aopdemo\aspect\MyDemoLoggingAspect.class
+ntt\global\aopdemo\dao\MembershipDAO.class
+ntt\global\aopdemo\DemoConfig.class
+ntt\global\aopdemo\dao\AccountDAO.class
+ntt\global\aopdemo\Account.class
